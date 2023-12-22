@@ -5,4 +5,8 @@ It includes sections for "About Me," "Work," and "Contact Me."
 
 ## Table of Contents
 
+It includes sections for "About Me," "Work," and "Contact Me."
+
+### Licenses
+
 
